@@ -1,0 +1,42 @@
+#  HR Analytics Dashboard – Power BI
+
+##  Overview
+This project features a dynamic **HR Analytics Dashboard** developed using **Power BI**. It aims to provide actionable insights into key human resource metrics, helping organizations make informed decisions related to workforce planning, employee engagement, and attrition.
+
+##  Key Features
+- **Attrition Analysis** by department, age group, and job role  
+- **Employee Demographics** overview (gender, education, marital status)  
+- **Job Satisfaction and Work-Life Balance** insights  
+- **Department-wise Performance Metrics**  
+- **Interactive Filters & Slicers** for in-depth exploration  
+
+##  Tools & Technologies
+- **Power BI Desktop**
+- **Power Query** for data transformation
+- **DAX** for calculated fields and measures
+
+
+##  Use Case
+This dashboard is ideal for:
+- **HR managers** monitoring employee engagement and turnover  
+- **Business leaders** identifying risk areas for attrition  
+- **Data analysts** supporting workforce strategy with data-driven insights
+##  Insights Gained
+- Patterns and trends in employee attrition  
+- Correlation between job satisfaction and turnover  
+- Workforce distribution across roles and departments  
+
+##  Screenshots
+*Add screenshots of key visuals from your Power BI dashboard here.*
+
+---
+
+##  How to Use
+1. Open the `.pbix` file using **Power BI Desktop**.  
+2. Interact with charts, filters, and slicers to explore the data.  
+3. Customize visuals or KPIs to suit your organization’s needs.
+
+---
+
+##  Contact
+For queries, feedback, or collaboration, feel free to connect!
